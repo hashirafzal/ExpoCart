@@ -212,6 +212,9 @@ button:hover{
         height: auto;
     
     }
+     .product{
+        flex-basis:auto;
+    }
     .main-left{
         width: 90%;
         padding: 5rem 2rem;
@@ -255,6 +258,12 @@ button:hover{
         padding: 0 0 1rem;
         margin-right: 15%;
     }
+     .contact-us-right{
+        position: absolute;
+        bottom: 0;
+        right:20%;
+        
+        }
    
 }
 @media(width<510px){
